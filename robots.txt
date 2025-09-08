@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://captainsalih.github.io/sitemap.xml
+Sitemap: https://captainsalih.github.iomd.saleh/sitemap.xml
